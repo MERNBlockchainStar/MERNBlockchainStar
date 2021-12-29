@@ -1,8 +1,6 @@
 <h2 font-weight="bold">Do you love Blockchain? I love it very much!</h2>
 <p>* Ethereum is one of the most Exciting Blockchain, I can't think my life without Ethereum! *</p>
 
-<h3><img width="30px" height="30px" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/skype.png" alt="Skype"/> &nbsp;live:.cid.f0443de3eb117ea2</h3>
-
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
